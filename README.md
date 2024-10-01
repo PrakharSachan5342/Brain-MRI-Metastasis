@@ -11,8 +11,8 @@ The **Brain MRI Metastasis Segmentation** application is designed to assist in t
 - 💻 **User-friendly interface** with loading indicators and error messages.
 
 ## 🚀 Technologies Used
-- **Backend**: FastAPI
-- **Frontend**: Streamlit
+- **Backend**: FastAPI , TensorFlow/Keras
+- **Frontend**: Streamlit , Matplotlib
 - **Image Processing**: OpenCV, PIL
 - **Python Packages**: numpy, requests
 
