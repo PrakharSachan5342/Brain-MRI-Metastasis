@@ -66,7 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 Thank you to the contributors and libraries that made this project possible.
 
-## 📬 Contact
-For questions or feedback, please reach out to:
-- **Name**: Prakhar Sachan
-- **Email**: [your-email@example.com]
